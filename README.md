@@ -1,3 +1,5 @@
+BUILDING A DATA MODEL FOR POWWER BI
+
 Project Clean Model PB
 
 Objective: To create data model from 23 data tables of a business process of a Sales Business Process. 
@@ -15,3 +17,5 @@ To achieve the following steps and techniques were followed
 The final data model view is given below. The Power BI file and excel file is attached for deeper understanding of the work. 
 
 It took around 8 hours to build and test the data model. 
+
+<img width="1256" height="638" alt="data_model" src="https://github.com/user-attachments/assets/e75cc2ab-68b5-4935-81b0-58b446fc4573" />
